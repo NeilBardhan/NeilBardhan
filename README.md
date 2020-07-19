@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Hi, I'm Neil. I'm a Full Stack Data Scientist at r4.ai. My specializations lie in geospatial data science, regression analysis, information retrieval, topic modeling, forecasting and recommender systems.
 
-<img src = https://github-readme-stats.vercel.app/api?username=NeilBardhan&show_icons=true&text_color=fff&bg_color=151515&title_color=fff>
+<img src = "https://github-readme-stats.vercel.app/api?username=NeilBardhan&show_icons=true&text_color=fff&bg_color=151515&title_color=fff">
