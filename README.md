@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I am Neil, an MLOps focused Data Scientist at The Climate Corporation based in San Francisco. My interests lie in geospatial data science, regression analysis, information retrieval, topic modeling, volumetric forecasting and recommender systems. I'm currently learning flask, golang and scala. I am open to collaborate on open source data science libraries. I can be reached by [mail](mailto:indraneil.bardhan@gmail.com) or on [Linkedin](https://www.linkedin.com/in/neilbardhan/).
+Hi! I am Neil, an MLOps focused Data Scientist at Climate LLC. based in San Francisco. My interests lie in MLOps, geospatial data science, regression analysis, information retrieval, topic modeling, volumetric forecasting and recommender systems. I'm currently learning flask, golang and scala. I can be reached by [mail](mailto:indraneil.bardhan@gmail.com) or on [Linkedin](https://www.linkedin.com/in/neilbardhan/).
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=NeilBardhan&show_icons=true&text_color=fff&bg_color=151515&title_color=fff">
