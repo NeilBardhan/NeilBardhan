@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an experienced Machine Learning Engineer and Data Scientist at Climate LLC. based in San Francisco. My expertise lies in data engineering, model training and deployment, model explainability, model monitoring, CI/CD and MLOps. I am also and experienced mentor to early career Data Scientists and Software Engineers. I can be reached by [mail](mailto:indraneil.bardhan@gmail.com) or on [Linkedin](https://www.linkedin.com/in/neilbardhan/).
+I am an experienced Machine Learning Engineer and Data Scientist at Climate LLC. based in San Francisco. My expertise lies in data engineering, model training and deployment, model explainability, model monitoring, CI/CD and MLOps. I am also an experienced mentor to early career Data Scientists and Software Engineers.
 
 <!-- My interests lie in MLOps, geospatial data science, regression analysis, information retrieval, topic modeling, volumetric forecasting and recommender systems. -->
 
