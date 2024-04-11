@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an experienced Machine Learning Engineer and Data Scientist at Climate LLC. based in San Francisco. My expertise lies in data engineering, model training and deployment, model explainability, model monitoring, CI/CD and MLOps. I am also an experienced mentor to early career Data Scientists and Software Engineers.
-
-<!-- My interests lie in MLOps, geospatial data science, regression analysis, information retrieval, topic modeling, volumetric forecasting and recommender systems. -->
+I am an experienced Machine Learning Engineer and Data Scientist at [Climate](https://climate.com/). My expertise lies in data engineering, model training and deployment, ML/AI explainability, model monitoring, CI/CD and MLOps. I am also an experienced mentor to early career Data Scientists and Software Engineers.
 
 ## Skills and Expertise
 
-**Programming Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn, PySpark), R (dplyr, ggplot2, tidyverse), SQL, bash.
+**Programming Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn, PySpark, pytest), R (dplyr, ggplot2, tidyverse), SQL, bash.
 
 **Machine Learning**: Supervised Learning (Linear Models, Tree-based Models), Unsupervised Learning (Clustering, PCA).
 
@@ -31,8 +29,7 @@ I am an experienced Machine Learning Engineer and Data Scientist at Climate LLC.
 
   - **AWS**: s3, EC2, EMR, SageMaker, IAM
   - **GCP**: GCS, BigQuery, Compute Engine, GKE
-  - **Data Engineering**: Apache Spark, Airflow
+  - **Data Engineering**: Apache Spark, Airflow, postgres
   - **MLOps/DevOps**: GitLab CI/CD, Docker, DataDog
 
-<!-- 
-<img src = "https://github-readme-stats.vercel.app/api?username=NeilBardhan&show_icons=true&text_color=fff&bg_color=151515&title_color=fff"> -->
+<img src = "https://github-readme-stats.vercel.app/api?username=NeilBardhan&show_icons=true&text_color=fff&bg_color=151515&title_color=fff">
